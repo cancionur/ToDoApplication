@@ -1,16 +1,20 @@
-# to_do_application
+# Açıklama
 
-A new Flutter project.
+Flutter ile geliştirdiğim Yapilacaklar Listesi uygulaması.
 
-## Getting Started
+Uygulama anasayfasında yapacağımız işler listeleniyor. Bunları ListView.builder yapısı ile oluşturdum. + işaretli butona tıkladığınızda yeni bir iş ekleyebiliyorsunuz. 
+Veya işin üstüne tıkladığınızda işi güncelleyebiliyorsunuz. İşlerin yanındaki çöp kutusu ile de yapılacak işi silebiliyorsunuz.
 
-This project is a starting point for a Flutter application.
+Projemde SQlite veritabanı kullandım. Projemi Bloc Pattern yapısıyla yaptım, bu sayede kodlamada daha yalın ve düzenli bir kodlamaya gidebildim. 
 
-A few resources to get you started if this is your first Flutter project:
+# Uygulama Videosu
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Uygulama İçi Görseller
+
+<p float="left">
+  <img src="/pictures/resim1.jpg" width="225" />
+  <img src="/pictures/resim2.jpg" width="225" /> 
+  <img src="/pictures/resim3.jpg" width="225" />
+</p>
