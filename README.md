@@ -9,7 +9,7 @@ Projemde SQlite veritabanı kullandım. Projemi Bloc Pattern yapısıyla yaptım
 
 # Uygulama Videosu
 
----
+https://www.youtube.com/shorts/YmKE03lw3xE
 
 # Uygulama İçi Görseller
 
